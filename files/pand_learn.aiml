@@ -16,4 +16,29 @@
     <pattern></pattern>
     <template></template>
 </category>
+<category>
+	<pattern>HEY</pattern>
+	<template>hi</template>
+</category>
+
+<category>
+	<pattern>HY</pattern>
+	<template>hello! how may I help you?</template>
+</category>
+
+<category>
+	<pattern>HEY</pattern>
+	<template>namaste! what do you need me to do?</template>
+</category>
+
+<category>
+	<pattern>HEY</pattern>
+	<template>hello! how may I help you</template>
+</category>
+
+<category>
+	<pattern>HEY</pattern>
+	<template>hello! how may I help you?</template>
+</category>
+
 </aiml>
