@@ -41,4 +41,54 @@
 	<template>hello! how may I help you?</template>
 </category>
 
+<category>
+	<pattern>CAN YOU HELP ME BOOK A TICKET?</pattern>
+	<template>sure.can you tell me the details of you arrival and departure city?</template>
+</category>
+
+<category>
+	<pattern>CAN YOU HELP ME BOOK A TICKET?</pattern>
+	<template>yes.please tell me the date and the arrival and departure cities?</template>
+</category>
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>hi. what do you need help with?</template>
+</category>
+
+<category>
+	<pattern>CAN YOU TELL ME A JOKE?</pattern>
+	<template>https://www.rd.com/list/short-jokes/</template>
+</category>
+
+<category>
+	<pattern>TELL ME A JOKE</pattern>
+	<template>Did you hear about the mathematician who’s afraid of negative numbers? He’ll stop at nothing to avoid them.</template>
+</category>
+
+<category>
+	<pattern>TELL ME ANOTHER ONE</pattern>
+	<template>Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.</template>
+</category>
+
+<category>
+	<pattern>VERY FUNNY</pattern>
+	<template>thanks.Want to hear another one?</template>
+</category>
+
+<category>
+	<pattern>YAH SURE</pattern>
+	<template>Why don’t scientists trust atoms? Because they make up everything.</template>
+</category>
+
+<category>
+	<pattern>CAN YOU TELL ME A JOKE</pattern>
+	<template>Where are average things manufactured? The satisfactory.</template>
+</category>
+
+<category>
+	<pattern>NO</pattern>
+	<template>ok.Thank you for your time</template>
+</category>
+
 </aiml>
